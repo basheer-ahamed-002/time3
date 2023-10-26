@@ -20,7 +20,7 @@
 }
 .container{
     display: flex;
-    gap: 20px;
+    gap: 40px;
 }
 .new{
     margin-bottom: 20px;
